@@ -20,7 +20,7 @@ clear();
 
 console.log(
     chalk.green(
-        figlet.textSync('Vue-Generator!',
+        figlet.textSync('Vue Generate!',
         {
             horizontalLayout: 'full',
         })
